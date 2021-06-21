@@ -1,0 +1,17 @@
+{
+    "name": "wordcount-python-sample",
+    "description": "Wordcount python sample with flex template",
+    "parameters": [
+      {
+        "name": "input",
+        "label": "File to be processed",
+        "helpText": "File to be processed",
+        "isOptional": true
+      },
+      {
+        "name": "output",
+        "label": "Output file location",
+        "helpText": "Output file location"
+      }
+    ]
+}
